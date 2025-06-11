@@ -1,4 +1,6 @@
-# React + Vite
+# React 
+
+This is my first React Project. It is a simple to do list app.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
